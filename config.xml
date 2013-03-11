@@ -15,6 +15,7 @@
       </suite>
       <revision>
         <name>r2</name>
+        <status>Beta</status>
         <sources>
           <source>wcseo/1.0/ctl</source>
         </sources>
