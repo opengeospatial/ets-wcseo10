@@ -2,6 +2,8 @@
 
 The OGC Web Coverage Service - Earth Observation Profile 1.0 Test-Suite provides the Executable Test Script (ETS) to test implementations against the following specification(s):
 
+- OGCWeb Coverage Service 2.0 Interface Standard - Earth Observation Application - [OGC-09-140](http://www.opengeospatial.org/standards/wcs)
+
 Detailed information about this test suite is available [here]( http://htmlpreview.github.com/?https://github.com/opengeospatial/ets-wcseo10/blob/master/src/main/web/index.html).
 
 ## License
