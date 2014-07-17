@@ -14,7 +14,7 @@
         <description>Checks conformance to OGC 10-140.</description>
       </suite>
       <revision>
-        <name>r2</name>
+        <name>r3</name>
         <status>Beta</status>
         <sources>
           <source>wcseo/1.0/ctl</source>
